@@ -6,4 +6,5 @@ A draft for PhysChem Seminar.
 - ChemCrow: Augmenting large-language models with chemistry tools https://arxiv.org/pdf/2304.05376.pdf
 - Is GPT-3 all you need for low-data discovery in chemistry? https://chemrxiv.org/engage/chemrxiv/article-details/63eb5a669da0bc6b33e97a35
 - Large Language Models in Chemistry https://chemicbook.com/2023/04/11/LLMs-in-Chemistry.html
+- Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT https://arxiv.org/pdf/2304.02213.pdf
 - 
