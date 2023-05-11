@@ -8,4 +8,4 @@ A draft for PhysChem Seminar.
 - Large Language Models in Chemistry https://chemicbook.com/2023/04/11/LLMs-in-Chemistry.html
 - Large Language Models as Master Key: Unlocking the Secrets of Materials Science with GPT https://arxiv.org/pdf/2304.02213.pdf
 - Do Large Language Models Understand Chemistry? A Conversation with ChatGPT https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285
-- 
+- ProGen https://zhuanlan.zhihu.com/p/620031370
